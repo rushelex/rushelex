@@ -4,7 +4,7 @@ My name is Aleksey and I'm a frontend engineer from Yekaterinburg, Russia.
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat-square&logo=WebStorm&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat-square&logo=WebStorm&logoColor=white&color=555555)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)

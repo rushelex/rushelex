@@ -15,7 +15,7 @@ My name is Aleksey and I'm a frontend engineer from Yekaterinburg, Russia.
   <table>
     <tr>
         <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=rushelex&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&icon_color=5194f0&bg_color=ffffff" /></td>
-        <td><img width="550px" src="https://codestats-readme.vercel.app/api/top-langs/?username=rushelex&layout=compact&hide_border" /></td>
+        <td><a href="https://codestats.net/users/rushelex" target="_blank"><img width="550px" src="https://codestats-readme.vercel.app/api/top-langs/?username=rushelex&layout=compact&hide_border" /></a></td>
     </tr>   
   </table>
 </p>

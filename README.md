@@ -14,28 +14,3 @@ My name is Aleksey and I'm a frontend engineer from Yekaterinburg, Russia.
 
 ![](https://github-readme-stats.vercel.app/api?username=rushelex&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&icon_color=539bf5&bg_color=22272e&text_color=adbac7#gh-dark-mode-only)
 <a href="https://github-readme-stats.vercel.app/api?username=rushelex&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&icon_color=5194f0&bg_color=ffffff#gh-light-mode-only"><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=rushelex&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&icon_color=5194f0&bg_color=ffffff#gh-light-mode-only" /></a> -->
-
-### 📈 Some Stats
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github-readme-stats.vercel.app/api?username=rushelex&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&icon_color=539bf5&bg_color=22272e&text_color=adbac7#gh-dark-mode-only">
-          <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=rushelex&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&bg_color=22272e&text_color=adbac7&icon_color=539bf5" />
-        </a>
-        <a href="https://github-readme-stats.vercel.app/api?username=rushelex&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&icon_color=5194f0&bg_color=ffffff#gh-light-mode-only">
-          <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=rushelex&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&bg_color=ffffff&text_color=24292f&icon_color=5194f0" />
-        </a>
-      </td>
-      <td>
-        <a href="https://codestats.net/users/rushelex#gh-dark-mode-only" target="_blank">
-          <img width="550px" src="https://codestats-readme.vercel.app/api/top-langs/?username=rushelex&layout=compact&hide_border&bg_color=22272e&title_color=adbac7&text_color=adbac7" />
-        </a>
-        <a href="https://codestats.net/users/rushelex#gh-light-mode-only">
-          <img width="550px" src="https://codestats-readme.vercel.app/api/top-langs/?username=rushelex&layout=compact&hide_border&bg_color=ffffff&title_color=333333&text_color=24292f" />
-        </a>
-      </td>
-    </tr>   
-  </table>
-</p>
